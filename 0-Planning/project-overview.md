@@ -45,5 +45,3 @@ This project follows the major phases of SDLC:
 
 This project highlights both technical skills and process understanding while providing a practical solution for users to borrow e-books easily.
 
-Let me know if you want this to be even simpler or more formal depending on the audience (students, teachers, or developers).
-
