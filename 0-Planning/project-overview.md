@@ -3,7 +3,7 @@
 **Project Name:** E-Book Borrowing System  
 **Author:** Runarok  
 **Phase:** Planning  
-**Last Updated:** September 9, 202
+**Last Updated:** September 9, 2025
 
 ---
 
