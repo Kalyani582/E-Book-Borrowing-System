@@ -19,7 +19,7 @@ This project is a web-based E-Book Borrowing System that allows users to browse,
 * Ensure smooth borrowing and returning processes with proper validations.
 * Deploy the system for public access using GitHub Pages or another hosting service.
 
-  ---
+---
 
 ### **Key Features**
 * Browse available e-books with details like title, author, genre, and availability.
@@ -48,7 +48,7 @@ This project follows the major phases of SDLC:
 * **Testing:** Checked on different devices and browsers to ensure compatibility.
 * **Deployment:** Published on GitHub Pages with documentation for users.
 
-  ---
+---
 
 This project highlights both technical skills and process understanding while providing a practical solution for users to borrow e-books easily.
 
