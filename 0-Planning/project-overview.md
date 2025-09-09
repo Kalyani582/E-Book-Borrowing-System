@@ -1,9 +1,9 @@
 # 📁 Project Overview
 
-**Project Name:** E-Book Borrowing System
-**Author:** Runarok
-**Phase:** Planning
-**Last Updated:** September 9, 2025
+**Project Name:** E-Book Borrowing System  
+**Author:** Runarok  
+**Phase:** Planning  
+**Last Updated:** September 9, 202
 
 ---
 
