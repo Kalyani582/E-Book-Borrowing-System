@@ -1,7 +1,7 @@
 # 📁 Project Overview
 
 **Project Name:** E-Book Borrowing System  
-**Author:** V.Sai Kalyani  
+**Author:** V.Sai Kalyani,Srujana B E 
 **Phase:** Planning  
 **Last Updated:** September 9, 2025
 
