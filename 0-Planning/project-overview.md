@@ -1,7 +1,7 @@
 # 📁 Project Overview
 
 **Project Name:** E-Book Borrowing System  
-**Author:** Runarok  
+**Author:** V.Sai Kalyani  
 **Phase:** Planning  
 **Last Updated:** September 9, 2025
 
